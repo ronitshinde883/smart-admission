@@ -41,7 +41,7 @@ It provides an efficient platform for **student registration, application tracki
 - Django REST Framework (for APIs)
 
 ### Database
-- SQLite / PostgreSQL / MySQL *(choose based on implementation)*
+- SQLite 
 
 ---
 
