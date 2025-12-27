@@ -44,3 +44,6 @@ def submit_application(request):
 
 def track_status(request):
      return render(request,'index.html')
+
+def test(request):
+     return render(request, "test.html")
